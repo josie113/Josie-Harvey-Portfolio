@@ -144,6 +144,12 @@ footer {
   margin: 60px 0;
 }
 
+.portland,
+.world-clock,
+.yoga, .dictionary {
+  border-radius: 3000px;
+}
+
 footer .contact-box {
   background: var(--secondary-color);
   padding: 30px 120px;

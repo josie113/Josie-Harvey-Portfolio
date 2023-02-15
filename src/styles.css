@@ -146,8 +146,12 @@ footer {
 
 .portland,
 .world-clock,
-.yoga, .dictionary {
+.yoga {
   border-radius: 3000px;
+}
+
+.portland-work, .clock-work, .yoga-work, .dictionary-work, .weather-work, .yogurt-work {
+  border-radius: 7px;
 }
 
 footer .contact-box {

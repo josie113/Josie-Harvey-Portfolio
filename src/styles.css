@@ -1,6 +1,6 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #ed7750;
+  --secondary-color: #f1f1f1;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -150,7 +150,12 @@ footer {
   border-radius: 3000px;
 }
 
-.portland-work, .clock-work, .yoga-work, .dictionary-work, .weather-work, .yogurt-work {
+.portland-work,
+.clock-work,
+.yoga-work,
+.dictionary-work,
+.weather-work,
+.yogurt-work {
   border-radius: 7px;
 }
 
